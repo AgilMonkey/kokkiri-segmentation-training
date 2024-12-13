@@ -1,5 +1,8 @@
 venv/
 runs/
+data/*
+!data/.gitkeep
+!data/train/.gitkeep
 data/train/*
 !data/train/.gitkeep
 data/val/*
