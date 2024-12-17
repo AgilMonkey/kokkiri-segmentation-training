@@ -9,3 +9,5 @@ data/val/*
 !data/val/.gitkeep
 data/test/*
 !data/test/.gitkeep
+
+/yolo*.pt
